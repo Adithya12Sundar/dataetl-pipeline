@@ -1,1 +1,1 @@
-The customer order data is read from a csv to a dataframe. A new feature called percentage of tip is introduced using some mathematical calculations, the pandas dataframe is again stored , The task is saved as a function to run the pipeline for any new data.
+Data from various customers is accessed from a github csv to a pandas dataframe. A new feature called percentage tip is created using mathematical calculations, the pandas dataframe is again stored , The task is saved as a function to run the pipeline for any new data.
